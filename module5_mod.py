@@ -1,4 +1,4 @@
-class NumberProcessor:
+class NumberBox:
     def __init__(self):
         self.numbers = []
 
