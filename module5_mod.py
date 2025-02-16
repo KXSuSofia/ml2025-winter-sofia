@@ -1,4 +1,4 @@
-class NumberBox:
+class Sofia:
     def __init__(self):
         self.numbers = []
 
