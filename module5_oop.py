@@ -1,4 +1,4 @@
-class NumberProcessor:  
+class Sofia:  
     def __init__(self):  
         self.numbers = []  
     
@@ -12,7 +12,7 @@ class NumberProcessor:
             return -1  
 
 if __name__ == "__main__":  
-    processor = NumberProcessor()  
+    processor = Sofia()  
     
     n = int(input("Enter N: "))  
     for _ in range(n):  
