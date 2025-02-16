@@ -1,7 +1,7 @@
-from module5_mod import NumberProcessor  
+from module5_mod import Sofia  
 
 if __name__ == "__main__":  
-    processor = NumberProcessor()  
+    processor = Sofia()  
     
     n = int(input("Enter N: "))  
     for _ in range(n):  
