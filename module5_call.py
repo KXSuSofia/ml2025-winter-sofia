@@ -9,4 +9,4 @@ if __name__ == "__main__":
         processor.add_number(num)  
     
     x = int(input("Enter X: "))  
-    print(processor.find_index(x))
+    print(processor.find_number(x))
